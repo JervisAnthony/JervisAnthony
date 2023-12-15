@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jervis Anthony
 - 👀 I’m interested in Data Science & Machine Learning, Open Source Projects, Computer Vision Projects, UAV development, DevOps and Infrastructure, Community and Social Impact, Art and Creative Projects and the likes ...
-- 🌐 Currently navigating the digital landscape as a Machine Learning Developer at Virtual Staffing LLC (Legal Soft) : PracticeAI
+- 🌐 Currently navigating the digital landscape as a Machine Learning Developer at Virtual Staffing LLC (Legal Soft) : @PracticeAI
 - 🌱 I’m currently learning DevOps, Blockchain and a whole lot of new frameworks in Generative AI.
 - 💞️ I’m looking to collaborate on projects based on Python open-source, data science, game development, environmental projects, image processing and Computer Vision applications, AI and machine learning research, creative projects, nonprofit and social impact projects on GitHub
 - 📫 How to reach me : https://www.linkedin.com/in/jervis-anthony-saldanha/
