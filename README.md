@@ -42,7 +42,9 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
   - For professional inquiries, send a signal to jervisaldanha.collabs@gmail.com.
   - Dive deeper into my journey at [jervisanthony.ai](http://jervisanthony.ai).
 
-Feel free to reach out, connect, and embark on a voyage through the diverse facets of my tech-infused, exploration-filled, and creatively-driven journey! - Happy coding! 🚀
+Feel free to reach out, connect, and embark on a voyage through the diverse facets of my tech-infused, exploration-filled, and creatively-driven journey! 
+
+Happy coding! 🚀
 <!---
 JervisAnthony/JervisAnthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
