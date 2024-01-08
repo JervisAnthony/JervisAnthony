@@ -38,7 +38,7 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
   - Navigating the tech waters, transitioning from the Apple ecosystem to the sleek embrace of Samsung devices for seamless connectivity.
 
 - 📫**Stay Connected:**
-  - Swift responses guaranteed on [Instagram](https://www.instagram.com/saldanhajervis/) or [LinkedIn](www.linkedin.com/in/jervis-anthony-saldanha/) DMs.
+  - Swift responses guaranteed on [Instagram](https://www.instagram.com/saldanhajervis/) or [LinkedIn]([www.linkedin.com/in/jervis-anthony-saldanha/](https://www.linkedin.com/in/jervis-anthony-saldanha/)) DMs.
   - For professional inquiries, send a signal to jervisaldanha.collabs@gmail.com.
   - Dive deeper into my journey at [jervisanthony.ai](http://jervisanthony.ai).
 
