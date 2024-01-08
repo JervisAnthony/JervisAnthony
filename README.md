@@ -15,7 +15,7 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
   - 🌐Contributing to Open Source Projects, championing collaboration and innovation.
   - 🖥️Commanding the realms of DevOps and Infrastructure, ensuring a smooth tech sailing.
   - 👥Active involvement in Community and Social Impact projects, shaping a tech-driven positive change.
-  - 🎨Crafting magic through Art and Creative Projects, where imagination knows no bounds.
+  - 🎨Weaving enchantment through Art and Creative Ventures, where imagination knows no bounds.
   - 👀Delving into the visual realms with Computer Vision Projects, unraveling the wonders of image analysis.
 
 - 🎮**Recreation Harbor:**
