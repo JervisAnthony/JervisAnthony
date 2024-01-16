@@ -7,7 +7,7 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
   - Steering through cutting-edge projects that fuse the worlds of law and Artificial Intelligence.
 
 - 📍**Whereabouts:**
-  - Proudly rooted in Bangalore, where the tech vibe is always pulsating.
+  - Proudly rooted in Bangalore, where the tech vibe is always pulsating, I remain ever on the move.
 
 - ✨**Expertise Archipelago:**
   - 📊Extensive experience in the domains of Data Science and Machine Learning, harnessing the power of algorithms and data for insightful solutions.
@@ -27,7 +27,7 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
   - 🧙🏻‍♂️Crafting magic through coding – an eternal journey of exploration.
 
 - 🍿**Fandom and Flair:**
-  - 🐍A proud Slytherin, navigating the magical realms of Harry Potter with unwavering zeal.
+  - 🐍A proud Slytherin: "Si vis pacem, para bellum", navigating the magical realms of 'Hogwarts Legacy' with unwavering zeal.
   - 👨🏻‍🚀A dedicated Star Trek aficionado, with Captain Christopher "Chris" Pike as my ultimate space-faring hero.
   - 🤖Almost akin to JARVIS, Iron Man's AI, my name carries a touch of superhero flair along this tech-driven odyssey.
 
@@ -41,6 +41,7 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
   - Swift responses guaranteed on [Instagram](https://www.instagram.com/saldanhajervis/) or [LinkedIn](https://www.linkedin.com/in/jervis-anthony-saldanha/) DMs.
   - For professional inquiries, send a signal to jervisaldanha.collabs@gmail.com.
   - Dive deeper into my journey at [jervisanthony.ai](http://jervisanthony.ai).
+  - Peruse through my thoughts at [Medium](https://medium.com/@jervisaldanha).
 
 Feel free to reach out, connect, and embark on a voyage through the diverse facets of my tech-infused, exploration-filled, and creatively-driven journey! 
 
