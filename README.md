@@ -63,7 +63,9 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
   - Peruse through my thoughts at [Medium](https://medium.com/@jervisaldanha).
 
 
-Feel free to reach out, connect, and embark on a voyage through the diverse facets of my tech-infused, exploration-filled, and creatively-driven journey! 
+    
+  
+Feel free to reach out, connect, and embark on a voyage through the diverse facets of my tech-infused, exploration-filled, and creatively-driven journey!
 
 Happy coding! 🚀
 <!---
