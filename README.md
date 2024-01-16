@@ -47,7 +47,7 @@ Embarking on the 28th chapter of my life, I find myself immersed in the expansiv
 
 💫**Childhood Fantasies:**
  ---
-  - Dreamt of venturing into the cosmos as an astronaut or uncovering ancient mysteries as an archaeologist, fueled by the enchantment of Jurassic Park🦖.
+  - Dreamt of venturing into the cosmos as an astronaut🛸 or uncovering ancient mysteries as an archaeologist, fueled by the enchantment of Jurassic Park🦖.
 
 
 👨🏻‍💻**Tech Odyssey:**
