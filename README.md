@@ -39,7 +39,7 @@ Embarking on the 29th chapter of my life, I find myself immersed in the expansiv
 
 🍿**Fandom and Flair:**
 ---
-  - 🐍A proud Slytherin: "Si vis pacem, para bellum", navigating the magical realms of 'Hogwarts Legacy' with unwavering zeal.
+  - 🐍A proud Slytherin: 13" Ebony wood with a Phoenix Core, Patronus: Runespoor; "Si vis pacem, para bellum", navigating the magical realms of 'Hogwarts Legacy' with unwavering zeal.
   - 👨🏻‍🚀A dedicated Star Trek aficionado, with Captain Christopher "Chris" Pike as my ultimate space-faring hero.
   - 🤖Almost akin to JARVIS, Iron Man's AI, my name carries a touch of superhero flair along this tech-driven odyssey.
 
