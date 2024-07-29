@@ -6,7 +6,7 @@ Embarking on the 29th chapter of my life, I find myself immersed in the expansiv
 ⛵**Professional Voyage:**
   ---
   - Currently navigating the seas of innovation as a Machine Learning Developer at [Virtual Staffing LLC](https://virtualstaffing.com/) [(Legal Soft)](https://legalsoft.com/) - [PracticeAI.](https://github.com/PracticeAI)
-  - Steering through cutting-edge projects that fuse the worlds of law and Artificial Intelligence.
+  - Steering through cutting-edge projects that fuse the worlds of Law and Artificial Intelligence.
 
 
 📍**Whereabouts:**
