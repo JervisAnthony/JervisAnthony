@@ -1,78 +1,96 @@
-Ahoy, I'm Jervis Anthony Saldanha!👋\
-Feel free to call me 'Tony'. 🚀
+Ahoy, I’m Jervis Anthony Saldanha 👋\
+Most people call me Tony 🚀
 
-Embarking on the 30th chapter of my life, I find myself immersed in the expansive universe of Machine Learning and Data Science, making waves in the bustling city of Bangalore, India. Now, let's embark on the odyssey of my journey:
+Currently navigating the 30th chapter of my life, I operate at the intersection of Machine Learning, Data Science, and real-world systems, with a strong focus on production-grade AI, applied research, and scalable engineering. Based in Bangalore, India, I work globally and think beyond borders.
+
+Let’s set sail through my journey.
 
 ⛵**Professional Voyage:**
   ---
-  - Currently navigating the seas of innovation as a Machine Learning Developer at [Virtual Staffing LLC](https://virtualstaffing.com/) [(Legal Soft)](https://legalsoft.com/) - [PracticeAI.](https://github.com/PracticeAI)
-  - Steering through cutting-edge projects that fuse the worlds of Law and Artificial Intelligence.
 
+* AI and Machine Learning Leader with 9+ years of experience building, scaling, and owning end-to-end intelligent systems
+* Formerly part of Law Practice AI / Legal Soft, where I helped architect and deliver production AI systems across:
+  * Document intelligence and OCR pipelines
+  * Audio transcription and summarization using Whisper and GPT-based workflows
+  * Large-scale generative AI systems in legal-tech
+* Strong focus on bridging research, engineering, and business impact, not demos
+* Currently pursuing an Executive MBA in AI and Business Analytics at PES University, sharpening strategic and leadership capabilities
+* Actively exploring remote-first senior and leadership roles where long-term ownership, system maturity, and impact matter
 
 📍**Whereabouts:**
 ---
-  - Proudly rooted in Bangalore, where the tech vibe is always pulsating, I remain ever on the move.
-
+- Rooted in Bangalore, frequently on the move
+- Comfortable working across time zones and distributed teams
 
 ✨**Expertise Archipelago:**
 ---
-  - 📊Extensive experience in the domains of Data Science and Machine Learning, harnessing the power of algorithms and data for insightful solutions.
-  - 🚁Piloting the skies and delving into the code with UAV development.
-  - 🌐Contributing to Open Source Projects, championing collaboration and innovation.
-  - 🖥️Commanding the realms of DevOps and Infrastructure, ensuring a smooth tech sailing.
-  - 👥Active involvement in Community and Social Impact projects, shaping a tech-driven positive change.
-  - 🎨Weaving enchantment through Art and Creative Ventures, where imagination knows no bounds.
-  - 👀Delving into the visual realms with Computer Vision Projects, unraveling the wonders of image analysis.
+- 📊 Machine Learning & Data Science\
+ End-to-end model development, deployment, monitoring, and optimization
 
+- 🧠 Generative AI & Applied NLP\
+RAG systems, summarization pipelines, prompt architectures, and AI orchestration
 
+- 👁️ Computer Vision\
+OCR, image quality assessment, document preprocessing, and visual intelligence
 
-🎮**Recreation Harbor:**
+- ☁️ DevOps, MLOps & Infrastructure\
+Azure-native systems, CI/CD, containerized services, and scalable pipelines
+
+- 🌐 Open Source Contributions\
+Building in public and collaborating globally
+
+- 👥 Community & Social Impact\
+Technology with intent and responsibility
+
+- 🎨 Creative & Experimental Tech\
+Where art, storytelling, and engineering intersect
+
+🌊 **Beyond the Screen**
 ---
-  - 📚A voracious reader exploring various literary realms.
-  - 🌱Nurturing greenery and creating aquatic landscapes.
-  - 📸Capturing moments through the lens, with photography as my muse.
-  - 🧁Whipping up delectable treats in the kitchen for a sweet escape.
-  - 🎨Unleashing creativity on canvas, where imagination knows no bounds.
-  - 🧙🏻‍♂️Crafting magic through coding – an eternal journey of exploration.
 
+- 🤿 Scuba Diver\
+Certified and actively diving, with a deep appreciation for marine ecosystems, precision, and calm under pressure
 
+- 🏁 Motorsport & Racing Enthusiast\
+Actively involved in karting and track driving, drawn to the discipline, telemetry, and split-second decision-making that mirrors high-performance engineering
 
-🍿**Fandom and Flair:**
+- 📸 Travel and lifestyle photography
+
+- 🎨 Painting and visual exploration
+
+- 📚 Reading across fiction, non-fiction, and technical literature
+
+- 🧁 Cooking and baking as a creative reset
+
+🍿 **Fandom & Flair**
 ---
-  - 🐍A proud Slytherin: 13" Ebony wood with a Phoenix Core, Patronus: Runespoor; "Si vis pacem, para bellum", navigating the magical realms of 'Hogwarts Legacy' with unwavering zeal.
-  - 👨🏻‍🚀A dedicated Star Trek aficionado, with Captain Christopher "Chris" Pike as my ultimate space-faring hero.
-  - 🤖Almost akin to JARVIS, Iron Man's AI, my name carries a touch of superhero flair along this tech-driven odyssey.
 
+- 🐍 Proud Slytherin\
+13" Ebony wand with Phoenix core • Patronus: Runespoor • Motto: Si vis pacem, para bellum
 
+- 👨🏻‍🚀 A dedicated Star Trek aficionado, with Captain Christopher "Chris" Pike as my ultimate space-faring hero.
 
-💫**Childhood Fantasies:**
- ---
-  - Dreamt of venturing into the cosmos as an astronaut🛸 or uncovering ancient mysteries as an archaeologist, fueled by the enchantment of Jurassic Park🦖.
+- 🤖Almost akin to JARVIS, Iron Man's AI, my name carries a touch of superhero flair along this tech-driven odyssey.
 
-
-👨🏻‍💻**Tech Odyssey:**
+💫 **Childhood Fantasies**
 ---
-  - Navigating the tech waters, transitioning from the Apple ecosystem to the sleek embrace of Samsung devices for seamless connectivity.
 
+- Once dreamt of becoming an astronaut 🛸 or archaeologist, fueled by a love for space, science, and Jurassic Park 🦖
 
-📫**Stay Connected:**
+- Still chasing wonder, just with better tools
+
+📫 **Stay Connected**
 ---
-  - Swift responses guaranteed on [Instagram](https://www.instagram.com/saldanhajervis/) or [LinkedIn](https://www.linkedin.com/in/jervis-anthony-saldanha/) DMs.
-  - For professional inquiries, send a signal to jervisaldanha.collabs@gmail.com.
-  - Dive deeper into my journey at [jervisanthony.ai](http://jervisanthony.ai).
-  - Peruse through my thoughts at [Medium](https://medium.com/@jervisaldanha).
+- [Instagram](https://www.instagram.com/saldanhajervis/)
+- [LinkedIn](https://www.linkedin.com/in/jervis-anthony-saldanha/)
+- [Professional inquiries](jervisaldanha.collabs@gmail.com)
+- [Portfolio](http://jervisanthony.ai)
+- [Blog](https://medium.com/@jervisaldanha)
 
 
-    
-  
-Feel free to reach out, connect, and embark on a voyage through the diverse facets of my tech-infused, exploration-filled, and creatively-driven journey!
+Feel free to connect, collaborate, or exchange ideas.
+This journey is equal parts technology, exploration, performance, and thoughtful creation.
 
-Happy coding! 🚀
-<!---
-JervisAnthony/JervisAnthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Happy coding 🚀
 
-
-
-
+<!--- JervisAnthony/JervisAnthony is a ✨ special ✨ repository because its README.md appears on your GitHub profile. --->
